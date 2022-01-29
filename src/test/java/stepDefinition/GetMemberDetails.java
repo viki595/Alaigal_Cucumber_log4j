@@ -103,7 +103,7 @@ public class GetMemberDetails  extends Base {
             new_row.createCell(3).setCellValue(comp.getText());
 
             OutputStream fileOut = new FileOutputStream("D://New_cucumber.xls");
-            wb.write(fileOut);
+            wb.write(fileOut); 
 
         }
     }
