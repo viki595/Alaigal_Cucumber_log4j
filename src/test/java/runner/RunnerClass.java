@@ -15,10 +15,10 @@ import org.junit.runner.RunWith;
 public class RunnerClass {
 
 public static void vignesh() {
-	System.out.println("bye");
+	System.out.println("GOOD EVENING");
 	
 	public static void vijai() {
-		System.out.println("HAI");
+		System.out.println("BYE");
 }
 
 }
