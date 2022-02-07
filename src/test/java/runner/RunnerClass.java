@@ -17,8 +17,8 @@ public class RunnerClass {
 public static void vignesh() {
 	System.out.println("GOOD EVENING");
 	
-	public static void vijai() {
-		System.out.println("BYE");
+	public static void ram() {
+		System.out.println("GOOD NIGHT");
 }
 
 }
