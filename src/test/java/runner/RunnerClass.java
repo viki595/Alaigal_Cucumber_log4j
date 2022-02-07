@@ -16,6 +16,9 @@ public class RunnerClass {
 
 public static void vignesh() {
 	System.out.println("bye");
+	
+	public static void vijai() {
+		System.out.println("HAI");
 }
 
 }
