@@ -14,7 +14,9 @@ import org.junit.runner.RunWith;
 
 public class RunnerClass {
 
-
+public static void vignesh() {
+	System.out.println("hai");
+}
 
 }
 
