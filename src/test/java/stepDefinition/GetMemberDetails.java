@@ -150,6 +150,7 @@ public class GetMemberDetails  extends Base {
         logger.info("NEW MEMBERS COUNT "+"  ----  "+new_members_data.size());
         logger.info("NEWLY ADDED MEMBER IS "+"  -----  "+s1);
 
+        hai();
     }
 }
 
