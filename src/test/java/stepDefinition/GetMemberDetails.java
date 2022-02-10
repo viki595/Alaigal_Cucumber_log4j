@@ -152,6 +152,7 @@ public class GetMemberDetails  extends Base {
 
         good night();
         going to sleep();
+       had my dinner();
     }
 }
 
