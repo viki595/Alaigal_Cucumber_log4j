@@ -151,6 +151,7 @@ public class GetMemberDetails  extends Base {
         logger.info("NEWLY ADDED MEMBER IS "+"  -----  "+s1);
 
         good night();
+        going to sleep();
     }
 }
 
