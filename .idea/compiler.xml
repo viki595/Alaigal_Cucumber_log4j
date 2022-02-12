@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Alaigal_Cucumber" />
+        <module name="Alaigal_Cucumber_log4j" />
       </profile>
     </annotationProcessing>
   </component>
