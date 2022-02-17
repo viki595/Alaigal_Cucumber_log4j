@@ -8,8 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
 
         features = "Feature/openAlaigal.feature" ,
-        glue = "stepDefinition",
-		tag={"@login"}
+        glue = "stepDefinition"
 
                 )
 
@@ -18,7 +17,7 @@ public class RunnerClass {
 
 }
 
-}
+
 
 
 

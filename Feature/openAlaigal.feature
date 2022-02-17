@@ -1,8 +1,5 @@
 Feature: open Alaigal Website
 
-  Background:
-    Given
-
   @login
   Scenario: Login With Admin Credential
     Given User On Login Page
